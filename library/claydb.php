@@ -19,7 +19,7 @@
 		# Table prefix
 		public static $prefix = 'clay';
 		# ClayDB version
-		public static $version = '1.92';
+		public static $version = '1.96';
 		# uses the appropriate driver to create a connection
 		private static function connection($dsn){
 			# Import our adapter
